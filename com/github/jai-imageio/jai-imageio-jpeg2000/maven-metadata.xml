@@ -3,9 +3,10 @@
   <groupId>com.github.jai-imageio</groupId>
   <artifactId>jai-imageio-jpeg2000</artifactId>
   <versioning>
+    <release>my-repo</release>
     <versions>
-      <version>1.3.1-SNAPSHOT</version>
+      <version>my-repo</version>
     </versions>
-    <lastUpdated>20190909090857</lastUpdated>
+    <lastUpdated>20190909091910</lastUpdated>
   </versioning>
 </metadata>
